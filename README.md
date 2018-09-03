@@ -1,4 +1,4 @@
-# Pyber-Challenge
+# Pyber Ride-Sharing Analysis
 
 A financial analysis of a fledging ride-sharing firm to ascertain new opportunities for market differentiation
 
